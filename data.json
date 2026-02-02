@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Kiran Burra",
+    "email": "kiran.burra@gmail.com",
+    "course": "MERN Stack"
+  },
+  {
+    "id": 2,
+    "name": "Anjali Sharma",
+    "email": "anjali.sharma@gmail.com",
+    "course": "Data Science"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Verma",
+    "email": "rahul.verma@gmail.com",
+    "course": "Java Full Stack"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Reddy",
+    "email": "sneha.reddy@gmail.com",
+    "course": "Python & AI"
+  },
+  {
+    "id": 5,
+    "name": "Amit Kumar",
+    "email": "amit.kumar@gmail.com",
+    "course": "Cloud Computing"
+  }
+]
